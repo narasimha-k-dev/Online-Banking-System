@@ -87,7 +87,7 @@ Admin functionality
 Web frontend using HTML/CSS/JavaScript
 
 Author
-Sunny Itachi
+K Narasimha
 GitHub: https://github.com/narasimha-k-dev
 
 License
